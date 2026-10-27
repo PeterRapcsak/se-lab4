@@ -1,0 +1,4 @@
+# Coverage: primary fired last, secondary empty and primary also empty -> FAIL
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # primary, now both stores are empty
+TORPEDO,SINGLE  # secondary next but empty, primary also empty
