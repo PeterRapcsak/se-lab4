@@ -1,0 +1,3 @@
+# R5: ALL - primary empty, secondary is still fired
+GT4500,0,0,10,0
+TORPEDO,ALL

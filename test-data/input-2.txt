@@ -1,0 +1,7 @@
+# R2: SINGLE - stores are fired alternating
+# primary never fails, secondary always fails
+GT4500,10,0,10,1
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary

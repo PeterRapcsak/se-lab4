@@ -1,0 +1,3 @@
+# R6: ALL - primary succeeds, secondary fails -> at least one fired
+GT4500,10,0,10,1
+TORPEDO,ALL

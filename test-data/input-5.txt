@@ -1,0 +1,4 @@
+# R3: SINGLE - secondary is next in line but empty -> primary is fired again
+GT4500,10,0,0,0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary empty -> primary again

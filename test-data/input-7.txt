@@ -1,0 +1,3 @@
+# R5: ALL - both stores fire successfully
+GT4500,10,0,10,0
+TORPEDO,ALL

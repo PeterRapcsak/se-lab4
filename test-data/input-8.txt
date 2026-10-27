@@ -1,0 +1,4 @@
+# R5: ALL - really fires both stores (one torpedo each)
+GT4500,1,0,1,0
+TORPEDO,ALL     # both stores become empty
+TORPEDO,SINGLE  # nothing left
