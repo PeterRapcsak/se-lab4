@@ -1,0 +1,4 @@
+# R1: SINGLE - for the first time the primary store is fired
+# primary never fails, secondary always fails -> SUCCESS means primary fired
+GT4500,1,0,1,1
+TORPEDO,SINGLE  # primary

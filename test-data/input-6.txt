@@ -1,0 +1,3 @@
+# Return value: SINGLE with both stores empty -> no torpedo fired
+GT4500,0,0,0,0
+TORPEDO,SINGLE
